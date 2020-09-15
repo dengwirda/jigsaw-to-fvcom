@@ -25,7 +25,7 @@ The following set of example problems are available in `JIGSAW-to-FVCOM`:
     example: 1; # generate a simple "box" domain with non-uniform mesh spacing
     example: 2; # generate an example modelling domain for the Saco bay region
     
-Run `python3 ex_1.py` or `python3 ex_2.py` to call the examples scripts. On completion, `*.dat` input files for `FVCOM` are saved locally. `*.vtk` output is also exported allowing meshes to be visualised with, for example, <a href=https://www.paraview.org/>Paraview</a>.
+Run `python3 ex_1.py` or `python3 ex_2.py` to call the examples scripts. On completion, `*.dat` input files for `FVCOM` are saved locally. `*.vtk` output is also exported, allowing meshes to be visualised with, for example, <a href=https://www.paraview.org/>Paraview</a>.
 
 ### `License`
 
