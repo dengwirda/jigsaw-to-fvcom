@@ -16,7 +16,12 @@ A simple interface between the `JIGSAW` mesh generator and `FVCOM` ocean model.
 
 Each time you want to use `JIGSAW` simply activate the environment using: `conda activate jigsaw_plus`
 
-Once activated, `JIGSAW's` various command-line utilities and `Python` front-end will be available to the `JIGSAW-to-FVCOM` utilities contained in this repository.
+Once activated, `JIGSAW's` various command-line utilities and `Python` front-end will be available to the `JIGSAW-to-FVCOM` utilities contained in this repository. For example:
+
+    conda activate jigsaw_plus
+    python ex_1.py
+    python ex_2.py
+    conda deactivate
 
 ### `Example Problems`
 
