@@ -1,0 +1,26 @@
+# jigsaw things
+cache/*.log
+cache/*.jig
+cache/*.msh
+
+# python things
+__pycache__/
+*.py[cod]
+
+build/
+develop-eggs/
+dist/
+eggs/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# data files, etc
+*.dat
+*.vtk
+*.off
+*.obj
+*.stl
